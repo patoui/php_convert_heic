@@ -1,6 +1,6 @@
 # PHP Convert HEIC 🎨
 
-This repository serves to show how to enable HEIC support with ImageMagick through PHP's imagick extension.
+This repository serves to show how to enable HEIC support with ImageMagick through PHP's imagick extension and converting an image of HEIC format to JPG.
 
 ## Running the example 🏃
 
