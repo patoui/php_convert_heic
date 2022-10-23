@@ -17,3 +17,7 @@ docker exec -it heic_app php convert.php
 ```
 
 If successful, you should see a file named `IMG_8019.jpg` in the repository's root directory 🎉
+
+### Resources
+
+- https://eplt.medium.com/5-minutes-to-install-imagemagick-with-heic-support-on-ubuntu-18-04-digitalocean-fe2d09dcef1
